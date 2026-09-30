@@ -1,0 +1,117 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EduGenie - AI Learning Assistant</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ==================== SIDEBAR ==================== -->
+    <aside class="sidebar">
+
+        <!-- Logo -->
+        <div class="logo">
+            <span>🎓</span>
+            <h2>EduGenie</h2>
+        </div>
+
+        <!-- Navigation -->
+        <nav>
+            <a class="active" href="#dashboard">
+                🏠 Dashboard
+            </a>
+
+            <a href="#subjects">
+                📚 Subjects
+            </a>
+
+            <a href="#quiz">
+                📝 Quiz
+            </a>
+
+            <a href="#progress">
+                📊 Progress
+            </a>
+
+            <a href="#history">
+                🕘 History
+            </a>
+        </nav>
+
+        <!-- Dark Mode -->
+        <div class="sidebar-bottom">
+            <button type="button" id="themeButton">
+                🌙 Dark Mode
+            </button>
+        </div>
+
+    </aside>
+
+
+    <!-- ==================== MAIN CONTENT ==================== -->
+    <main class="main" id="dashboard">
+
+        <!-- ==================== HEADER ==================== -->
+        <header class="header">
+
+            <div>
+                <p class="welcome">
+                    Welcome back 👋
+                </p>
+
+                <h1>
+                    Learn smarter with EduGenie
+                </h1>
+            </div>
+
+
+            <!-- Profile -->
+            <div class="profile">
+
+                <div class="avatar">
+                    S
+                </div>
+
+                <div>
+                    <strong>
+                        Student
+                    </strong>
+
+                    <small>
+                        Learning Explorer
+                    </small>
+                </div>
+
+            </div>
+
+        </header>
+
+
+        <!-- ==================== HERO SECTION ==================== -->
+        <section class="hero">
+
+            <div class="hero-content">
+
+                <span class="badge">
+                    ✨ Google Gemini Powered
+                </span>
+
+                <h2>
+                    Your Personal AI Learning Assistant
+                </h2>
+
+                <p>
+                    Ask questions, understand difficult concepts,
+                    generate notes and practice with AI.
+                </p>
+
+                <button
+                    type="button"
+```
